@@ -26,7 +26,7 @@ Contains 2 data objects:
 
 ### Cohort1_immune_vars.RData
 Contains 2 data objects:
-1)	`ALFNA14.vars` is a dataframe containing data for each variable included in the paper for each time point for 32 participants (both age groups). 
+1)	`ALFNA14.vars` is a dataframe containing data for each variable included in the paper for each time point for 34 participants (both age groups). 
 2)	`Cali09.14.D42` is a vector of the normalised antibody titre at d42 used for correlation analysis. 
 
 ### Cohort2_immune_vars.RData
